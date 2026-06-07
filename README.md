@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Visual mock ledger displaying asset charts, balances, and allocations.
+  name: crypto-portfolio-tracker version: 1.0 type: Repository author: VarshuAi description: >   Visual mock ledger displaying asset charts, balances, and allocations. primary_tech: CSS
 primary_tech: CSS
 ```
 
